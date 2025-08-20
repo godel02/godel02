@@ -60,9 +60,7 @@
   </a>
 </div>
 
-###
 
- <img src="https://raw.githubusercontent.com/01akshat09/01akshat09/output/snake.svg" alt="Snake animation" />
 
 <!-- <br clear="both"> -->
 
