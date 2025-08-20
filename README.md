@@ -60,6 +60,7 @@
   </a>
 </div>
 
+![snake gif](https://github.com/godel02/godel02/blob/output/github-snake-dark.svg)
 
 
 <!-- <br clear="both"> -->
